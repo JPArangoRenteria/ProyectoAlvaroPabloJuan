@@ -1,2 +1,2 @@
 # ProyectoAlvaroPabloJuan
-Projecto ML de Segmentacion para Neurosurgeria
+Proyecto ML de Segmentación para Neurocirugía
